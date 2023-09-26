@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1684913241 source:c:\users\`maged daoud\desktop\final projectbop2\main.cpp
+	<time.h>
+	<iostream>
+	<fstream>
+	<limits>
+	<vector>
+	"Cars.h"
+	"Customer.h"
+	"Rental.h"
+	<ctime>
+	<sstream>
+
+1684913241 c:\users\`maged daoud\desktop\final projectbop2\cars.h
+	<string>
+
+1684913241 c:\users\`maged daoud\desktop\final projectbop2\customer.h
+	<string>
+
+1684913241 c:\users\`maged daoud\desktop\final projectbop2\rental.h
+	<string>
+	<iostream>
+	<time.h>
+	"Cars.h"
+	"Customer.h"
+
+1684939389 source:c:\users\`maged daoud\desktop\final project bop2\main.cpp
+	<time.h>
+	<iostream>
+	<fstream>
+	<limits>
+	<vector>
+	"Cars.h"
+	"Customer.h"
+	"Rental.h"
+	<ctime>
+	<sstream>
+
+1684913241 c:\users\`maged daoud\desktop\final project bop2\cars.h
+	<string>
+
+1684937765 c:\users\`maged daoud\desktop\final project bop2\customer.h
+	<string>
+
+1684913241 c:\users\`maged daoud\desktop\final project bop2\rental.h
+	<string>
+	<iostream>
+	<time.h>
+	"Cars.h"
+	"Customer.h"
+

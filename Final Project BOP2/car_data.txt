@@ -1,0 +1,8 @@
+109 2018 Honda Accord 300 1
+211 2019 Toyota Camry 350 1
+721 2020 Ford Mustang 400 1
+409 2017 Chevrolet Cruze 250 1
+108 2021 BMW 3Series 500 1
+8989 2009 Toyota Corrolla 150 1
+23 3009 Picanto KIA 140 1
+216 2020 Volvo T200 60 1
